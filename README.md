@@ -28,8 +28,7 @@ Run **consumers.py** (1 - N consumers):
 $ python3 consumers.py [--type TYPE] [--length LENGTH]
 ```
 
-TYPE - type of producer: [temp, msg, weather]
-LENGTH - number of messages to be sent (default = 10)
+TYPE - type of producer: [temp, msg, weather]; LENGTH - number of messages to be sent (default = 10)
 
 ## Authors
 * **Eduardo Santos**: [eduardosantoshf](https://github.com/eduardosantoshf)
