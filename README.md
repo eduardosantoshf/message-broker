@@ -1,4 +1,4 @@
-# FirstCDProject
+# First CD Project
 
 **Message Broker** capable of linking **producers** and **consumers** through a common **PubSub** protocol and three different serialization mechanisms (**XML**, **JSON** and **Pickle**) + **middleware** that **abstracts** producers and consumers from the entire communication process.
 
@@ -29,6 +29,9 @@ $ python3 consumers.py [--type TYPE] [--length LENGTH]
 ```
 
 TYPE - type of producer: [temp, msg, weather]; LENGTH - number of messages to be sent (default = 10)
+
+## Grade 
+This project's grade was **16,7** out of 20.
 
 ## Authors
 * **Eduardo Santos**: [eduardosantoshf](https://github.com/eduardosantoshf)
